@@ -34,3 +34,5 @@ Thumbs.db
 *.log
 *.db
 *.postgres
+*.sql.bak
+dump.sql
